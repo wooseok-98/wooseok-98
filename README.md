@@ -14,7 +14,7 @@
 
 <h3>🎯 Direction</h3>
 <ul>
-  <li>AI를 활용한 실사용 서비스 개발</li>
+  <li>AI를 활용한 서비스 개발</li>
   <li>Research → Code → Service</li>
 </ul>
 
