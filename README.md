@@ -1,10 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=${배경타입}&color=auto&height=${높이}&section=header&text=${텍스트}&fontSize=${글자크기}&animation=${텍스트 효과})
-
-// 내 옵션
-배경타입 : waving
-높이 : 200
-텍스트 : AI Engineer [From research papers to real-world AI systems]🥳
-글자크기 : 50
-텍스트효과 : twinkling
-
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:56caf0,100:fe7c9c&height=180&text=Wooseok%20Choi&animation=&fontColor=000000&fontSize=60" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> AI Engineer  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    </div>
+    
