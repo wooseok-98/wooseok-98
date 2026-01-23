@@ -1,10 +1,13 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:56caf0,100:fe7c9c&height=180&text=Wooseok%20Choi&fontColor=000000&fontSize=50" />
+<div align="center" style="margin-bottom: -10px;">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:56caf0,100:fe7c9c&height=180&text=Wooseok%20Choi&fontColor=000000&fontSize=50"
+  />
 </div>
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
+<h2 align="center" style="margin-top: 0; border-bottom: 1px solid #d8dee4; color: #282d33;">
   AI Engineer (M.S. in Artificial Intelligence)
 </h2>
+
 <h3>🧠 Background</h3>
 <ul>
   <li>AI 전공 석사</li>
